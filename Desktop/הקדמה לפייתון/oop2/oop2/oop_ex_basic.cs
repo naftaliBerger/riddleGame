@@ -1,17 +1,22 @@
-﻿public class Tool
+﻿using System;
+
+public abstract class Tool
 {
     public string name;
-    public string weight;
+    public double weight;
 
-    public Tool(string name, string weight)
+    public Tool(string name, double weight)
     {
         this.name = name;
         this.weight = weight;
     }
-    public abstract Describe();
+    public abstract void Describe();
 
 
-
+    public abstract void Use();
+    
+        
+    
 
 
 }

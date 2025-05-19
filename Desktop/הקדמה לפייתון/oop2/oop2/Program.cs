@@ -10,12 +10,21 @@ namespace oop2
     {
         static void Main(string[] args)
         {
-            //Dog dog = new Dog();
-            //dog.print(4);
-            ArmoredSoldier soldier =  new ArmoredSoldier();
-            soldier.greet();
+           List<Tool> list = new List<Tool>();
+            list.Add(new Hammer("name: Hammer " , 1.8));
+            list.Add(new Drill("name: Drill ", 2.5));
+            list.Add(new Hammer("name: Drill ", 1));
+            list.Add(new Hammer("name: Wrench " , 1.3));
+            list.Add(new Hammer("name: Hammer " , 1.8));
+            list.Add(new Hammer("name: Hammer " , 1.8));
 
-            
+            foreach (Tool tool in list) 
+            {
+                tool.Describe();
+                Console.WriteLine("");
+                tool.Use();
+                Console.WriteLine("");
+            }
 
         }
     }

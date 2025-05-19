@@ -45,9 +45,17 @@
   <ItemGroup>
     <Compile Include="CodeFile1.cs" />
     <Compile Include="CodeFile2.cs" />
+    <Compile Include="CodeFile3.cs" />
+    <Compile Include="Drill.cs" />
+    <Compile Include="Hammer.cs" />
     <Compile Include="oop2.cs" />
+    <Compile Include="oop_ex_basic.cs" />
+    <Compile Include="PipeCutter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Saw.cs" />
+    <Compile Include="Screwdriver.cs" />
+    <Compile Include="Wrench.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
