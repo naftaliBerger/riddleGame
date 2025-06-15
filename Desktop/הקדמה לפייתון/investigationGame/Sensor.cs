@@ -8,11 +8,11 @@ namespace investigationGame
 {
     internal class Sensor
     {
-        public string Name { get; }  // שם הסנסור (למשל: "תרמי")
+        public string Name { get; }  
 
         public Sensor(string name)
         {
-            Name = name;  // שומר את השם שהתקבל
+            Name = name;  
         }
     }
 }
