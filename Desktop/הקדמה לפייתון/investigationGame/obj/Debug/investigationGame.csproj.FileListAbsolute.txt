@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\bin\Debug\investigationGame.exe.config
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\bin\Debug\investigationGame.exe
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\bin\Debug\investigationGame.pdb
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\obj\Debug\investigationGame.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\obj\Debug\investigationGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\obj\Debug\investigationGame.exe
+C:\Users\USER\Desktop\הקדמה לפייתון\investigationGame\obj\Debug\investigationGame.pdb
