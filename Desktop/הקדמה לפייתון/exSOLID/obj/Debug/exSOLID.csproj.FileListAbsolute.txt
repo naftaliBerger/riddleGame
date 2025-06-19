@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\bin\Debug\exSOLID.exe.config
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\bin\Debug\exSOLID.exe
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\bin\Debug\exSOLID.pdb
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\obj\Debug\exSOLID.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\obj\Debug\exSOLID.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\obj\Debug\exSOLID.exe
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\obj\Debug\exSOLID.pdb
+C:\Users\USER\Desktop\הקדמה לפייתון\exSOLID\obj\Debug\exSOLID.exe.config
