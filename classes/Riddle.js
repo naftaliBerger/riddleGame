@@ -8,15 +8,13 @@ export default class riddle {
         this.correctAnswer = correctAnswer;
     }
 
-    //
     ask() {
-        let bool = true
-        while (bool) {
+        while (true) {
             console.log(this.taskDescription);
             const answer = readline.question("your answer: ");
             if (answer === this.correctAnswer) {
                 console.log("Correct answer!!");
-                bool = false;
+                break;
             } else {
                 console.log("Incorrect answer, try again");
             }
